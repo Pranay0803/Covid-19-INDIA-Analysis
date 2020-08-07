@@ -1,5 +1,5 @@
-# Small Analysis on the rate of growth of Covid-19 cases in India
-<br>
+# Small Analysis on the rate of growth of Covid-19 cases in India <br>
+
 - Scrapped data from a website which provides data on covid-19 cases of countries around the world.
 
 - Extracted the rows of data concerned to India only.
