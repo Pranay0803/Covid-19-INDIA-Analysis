@@ -6,7 +6,7 @@
 
 - Cleaned the data by removing rows where the number of tests performed were missing.
 
-- Used Python packages such as Matplotlib and Seaborn for visualiztion of data where I compared the total number of cases against date.
+- Used Python packages such as Matplotlib and Seaborn for visualization of data where I compared the total number of cases against date.
 
 NOTE: The analysis are based only on data recorded as of 19<sup>th</sup> April 2020
 
